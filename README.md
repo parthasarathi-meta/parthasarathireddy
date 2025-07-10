@@ -2,6 +2,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=parthasarathi-meta)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=parthasarathi-meta)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=parthasarathi-meta&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🛠️ Tech Stack
 
 ### 💡 Core Skills
