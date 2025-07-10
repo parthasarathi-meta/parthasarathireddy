@@ -1,5 +1,6 @@
 # parthasarathireddy
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=parthasarathi-meta)](https://git.io/streak-stats)
 
 ## 🛠️ Tech Stack
 
