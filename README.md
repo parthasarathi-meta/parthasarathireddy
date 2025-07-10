@@ -2,8 +2,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 **Core Skills:**  
 ![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-000000?style=flat-square&logo=code&logoColor=white)
 
